@@ -9,7 +9,7 @@ import {
   } from "@mui/material";
   import { getIn } from "formik";
   import React, { useEffect, useState } from "react";
-import { DropZone } from "../Dropzone/Dropzone";
+import { DropZone } from "../DropZone/DropZone";
   
   const RenderInput = ({
     inputField,
